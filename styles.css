@@ -1,0 +1,36 @@
+body{
+    width: 100%;
+    margin: auto;
+    background-color: #bfbfbf;
+}
+
+h1{
+    background-color: #31d7ff;
+    text-align: center;
+    font-family: Verdana;
+    color: #3669fa;    
+}
+
+#intro{
+    padding: 25px;
+    font-size: large;
+    font-family: Verdana;
+    font-style: italic;
+}
+
+#intro_img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+h3{
+    text-align: center;
+    font-family: Verdana;
+    color: #3669fa;
+}
+
+p.regular{
+    padding: 25px;
+    font-family: Arial;
+}
